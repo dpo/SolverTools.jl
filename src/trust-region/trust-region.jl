@@ -173,3 +173,4 @@ function update! end
 include("basic-trust-region.jl")
 include("tron-trust-region.jl")
 include("ar-trust-region.jl")
+include("complexity-trust-region.jl")
